@@ -43,7 +43,7 @@ Users at The Office are running into IT issues! They will be creating tickets an
   - Assinged Ticket to myself(Kevin Benavides).</br>
   - Made SLA Critical.</br>
   - Kevin Benavides suspected that CRM software was the issues but checked other potential issues before calling CRM support. Other potential issues could have been Internet Outage, Server Outage, Security Breach, User Account Issues. </br>
-  - Kevin Benavides was able to determine that CRM was having a maintenance update. Kevin Benavides told that it was an inconvenient time to be doing a maintenance update and that their company is losing sales. 
+  - Kevin Benavides was able to determine that CRM was having a maintenance update. Kevin Benavides told them that it was an inconvenient time to be doing a maintenance update and that their company is losing sales. 
 
 <br />
 <br />
